@@ -16,9 +16,9 @@ desenvolvimentos proprios da equipe:
 Os envolvidos com o desenvolvimento deste software sao:
 
 - Fellipe Souto
+- Francisco Neto
 - Lucas Melo
 - Nestor Fontinele
-- Francisco Neto
 
 Esse software e livre e pode ser utilizado assim como esta
 ou com alteracoes de qualquer forma.
