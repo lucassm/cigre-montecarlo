@@ -2,6 +2,8 @@
 
 > Simulação computacional de Monte Carlo para análise de afundamentos de tensão em barras de uma rede de média tensão padrão Cigre
 
+![Rede de Distribuição Cigre de Média Tensão](http://www.uni-kassel.de/eecs/fileadmin/datas/fb16/Fachgebiete/energiemanagement/Software/pandapower-doc/_images/cigre_network_mv.png)
+
 Este software foi desenvolvido para o trabalho final da
 disciplina de Analise de Disturbios de Tensao de Curta Duracao
 ministrada no Programa de Pos Graduacao da Universidade
